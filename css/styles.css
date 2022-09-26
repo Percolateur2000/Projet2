@@ -137,7 +137,7 @@ form input {
   background-color: #0065fc;
   color: white;
   transition: 300ms;
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .info {
@@ -313,7 +313,7 @@ span{
 .encarts:hover {
   box-shadow: 0 0 20px #0065fc;
   transition: 300ms;
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 /*activités */
