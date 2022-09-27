@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;width300;400;500;600;700;800;900&display=swap");
 
-body{
-    margin: 0;
+body {
+  margin: 0;
 }
 
 .main {
@@ -39,7 +39,6 @@ a {
   width: 50%;
   padding-top: 12px;
   border-top: solid 4px white;
-
 }
 
 .nav a:hover {
@@ -199,8 +198,8 @@ form input {
   margin: 15px 0 10px 15px;
 }
 
-span{
-    font-weight: bold;
+span {
+  font-weight: bold;
 }
 
 .top-pop .fa-star {
@@ -217,7 +216,7 @@ span{
 }
 
 .end {
-    margin: 10px 0 0 15px;
+  margin: 10px 0 0 15px;
 }
 
 .star {
@@ -400,7 +399,6 @@ span{
 .color {
   background-color: #f2f2f2;
   font-family: "Raleway", sans-serif;
-
 }
 
 #container-foot {
@@ -410,10 +408,10 @@ span{
   justify-content: space-between;
 }
 
-.foot{
-    padding-left: 10px;
-    width: 220px;
-    justify-self: flex-start;
+.foot {
+  padding-left: 10px;
+  width: 220px;
+  justify-self: flex-start;
 }
 
 /* Media query tablette */
@@ -458,7 +456,6 @@ span{
     margin: auto;
   }
 
-
   .header {
     display: flex;
     flex-direction: column;
@@ -474,11 +471,10 @@ span{
     border-bottom: #f2f2f2 solid 3px;
   }
 
-  .nav a:hover{
+  .nav a:hover {
     padding: 16px 0 0 0;
     border-top: none;
     border-bottom: #0065fc solid 3px;
-
   }
 
   form {
@@ -511,14 +507,13 @@ span{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    align-content: space-around
+    align-content: space-around;
   }
 
-
-  .containerf{
+  .containerf {
     width: 95%;
   }
-  
+
   .filtre {
     font-size: 98%;
     height: 45px;
