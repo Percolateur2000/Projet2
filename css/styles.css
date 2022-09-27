@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;width300;400;500;600;700;800;900&display=swap");
 
 body{
-    margin: 0 auto;
+    margin: 0;
 }
 
 .main {
@@ -48,6 +48,7 @@ a {
   border-top: solid 4px #0065fc;
   cursor: pointer;
 }
+
 .top,
 .info-top,
 form,
@@ -56,6 +57,13 @@ form,
 #hebergement,
 #activite {
   margin-bottom: 30px;
+}
+
+.info-top,
+form,
+#filtres h3,
+.info {
+  padding-left: 15px;
 }
 
 form {
@@ -559,7 +567,7 @@ span{
 
   .cartep {
     height: 15vh;
-    width: 90%;
+    width: 95%;
   }
 
   .cartep img {
