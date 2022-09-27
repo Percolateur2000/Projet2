@@ -458,11 +458,6 @@ span{
     margin: auto;
   }
 
-  .info-top,
-  #filtres,
-  .info {
-    padding-left: 15px;
-  }
 
   .header {
     display: flex;
@@ -516,8 +511,14 @@ span{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    align-content: space-around
   }
 
+
+  .containerf{
+    width: 95%;
+  }
+  
   .filtre {
     font-size: 98%;
     height: 45px;
