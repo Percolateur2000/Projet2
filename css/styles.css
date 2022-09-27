@@ -347,10 +347,12 @@ span {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
 .encart h5 {
   padding-left: 10px;
   margin: auto 0;
 }
+
 .encartl {
   display: flex;
   flex-direction: column;
@@ -359,6 +361,7 @@ span {
   border-radius: 15px;
   box-shadow: 3px 3px 15px grey;
 }
+
 .encartl img {
   height: 90%;
   width: 100%;
@@ -374,12 +377,14 @@ span {
   border-radius: 15px;
   box-shadow: 3px 3px 15px grey;
 }
+
 .encartm img {
   height: 80%;
   width: 100%;
   object-fit: cover;
   border-radius: 15px 15px 0 0;
 }
+
 .encarts {
   display: flex;
   flex-direction: column;
@@ -388,6 +393,7 @@ span {
   border-radius: 15px;
   box-shadow: 3px 3px 15px grey;
 }
+
 .encarts img {
   height: 80%;
   width: 100%;
