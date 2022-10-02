@@ -418,13 +418,13 @@ span {
   max-width: 1440px;
   display: flex;
   margin: auto;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .foot {
-  padding-left: 10px;
-  width: 220px;
-  justify-self: flex-start;
+  width: 100%;
+  padding-top: 15px;
+  margin-left: 25px;
 }
 
 .foot ul{
@@ -434,7 +434,6 @@ span {
 .foot li{
   list-style: none;
   padding-left: 0px;
-  width: 250px;
 }
 
 /* Media query tablette ------------------------------------------------------------------------ */ 
