@@ -684,7 +684,9 @@ span {
   }
 
   .foot {
-    padding-left: 0px;
+    width: 95%;
+    margin-left: 0px;
+    padding-left: 25px;
     margin-bottom: 20px;
   }
 }
