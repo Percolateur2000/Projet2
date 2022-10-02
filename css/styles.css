@@ -427,6 +427,10 @@ span {
   justify-self: flex-start;
 }
 
+.foot ul{
+  list-style: none;
+}
+
 .foot li{
   list-style: none;
   padding-left: 0px;
